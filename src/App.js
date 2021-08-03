@@ -1,6 +1,9 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 function App() {
   return (
-    <>
+
     
 <main>
   <h1 className="visually-hidden">Sidebars examples</h1>
@@ -324,7 +327,7 @@ function App() {
 
   <div className="b-example-divider"></div>
 </main>
-  </>
+
   );
 }
 
